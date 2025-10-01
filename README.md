@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nimsara Senavirathne</h1>
-<h3 align="center">IT Undergraduate</h3>
+<h3 align="center">IT graduate</h3>
 
 <img src="https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966" alt="code" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimsaraa&label=Profile%20views&color=0e75b6&style=flat" alt="nimsaraa" /> </p>
 
-- 🌱 I’m currently following *Bachelor in Information Technology*
+- 🌱 Fresh graduate in *Bachelor in Information Technology*
 
 - 📫 How to reach me *nimsaranethmini2002@gmail.com*
 
